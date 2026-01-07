@@ -1,16 +1,23 @@
-## Hi there 👋
+# Michael Powell 👋
 
-<!--
-**michaelpowell98/michaelpowell98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DFIR Analyst | GCFA & CISSP
 
-Here are some ideas to get you started:
+This is where I post the tools and scripts I build while doing my day-to-day work. I have about 5+ years of  experience in Defensive Cyber Operations and Incident Response with military and the private sector. 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Building
+* **Log Parsing:** Turning Linux logs (e.g. `auth.log`, `ufw`) into clean CSVs so I can actually analyze them.
+* **DFIR Automation:** Scripts to speed up host-based forensics and artifact extraction.
+
+### 🧰 The Toolkit
+* **Languages:** Python (mostly for automation), Bash, SQL, and PowerShell
+* **Tools I Use** Splunk, Kibana, Volatility, Eric Zimmerman Tools, and various EDR
+  
+---
+
+### 🎓 The Background
+* **Experience:** Marine Vet and 5+ years in DFIR/Cyber Ops.
+* **Certs:** CISSP and GCFA
+* **Education:** Finishing my M.S. in Digital Forensics & Cyber Investigation.
+
+[LinkedIn](https://www.linkedin.com/in/michael-powell98/)
