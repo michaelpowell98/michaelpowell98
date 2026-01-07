@@ -6,7 +6,7 @@ This is where I post the tools and scripts I build while doing my day-to-day wor
 ---
 
 ### 🛠️ What I'm Building
-* **Log Parsing:** Turning Linux logs (e.g. `auth.log`, `ufw`) into clean CSVs so I can actually analyze them.
+* **Log Parsing:** Turning Linux logs (e.g. `auth.log`, `ufw`) into clean CSVs so I can analyze them better.
 * **DFIR Automation:** Scripts to speed up host-based forensics and artifact extraction.
 
 ### 🧰 The Toolkit
